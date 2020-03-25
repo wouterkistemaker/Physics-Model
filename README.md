@@ -8,4 +8,9 @@ Mocht de code een tikje onoverzichtelijk zijn (ik vind dat GitHub het niet zo fi
 
 Ik weet niet zeker hoe lang die link geldig blijft, meestal wel een maand maar mocht de code daar ontbreken, laat het even weten dan update ik dit bestand met een nieuw linkje.
  
+Vast gekozen waarden:
+- Waterdiepte = 0.2m
+- Werphoogte = 5.0m
+- Diameter (bol) = 0.216m
+ 
  ~ Wouter
