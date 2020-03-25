@@ -13,4 +13,6 @@ Vast gekozen waarden:
 - Werphoogte = 5.0m
 - Diameter (bol) = 0.216m
  
+Onderzoek wijst uit dat de kleinste massa waaronder de bol de bodem nog raakt 1.120819 kilogram is.
+ 
  ~ Wouter
