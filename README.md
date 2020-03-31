@@ -13,7 +13,7 @@ Vast gekozen waarden:
 - Werphoogte = 5.0m
 - Diameter (bol) = 0.216m
  
-Onderzoek wijst uit dat de kleinste massa waaronder de bol de bodem nog raakt 1.656926 kilogram is.
+Onderzoek wijst uit dat de kleinste massa waaronder de bol de bodem nog raakt 1.708418 kilogram is.
 De snelheid die de bol dan nog heeft is 0.0190 m/s, dus ongeveer 2 centimeter in een seconde.
  
  ~ Wouter
