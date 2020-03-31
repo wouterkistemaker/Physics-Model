@@ -89,10 +89,10 @@ while (hoogte > 0):
             # de bol is volledig onder water
          #   archimedeskracht = g * dichtheidWater * volume
 
-        if (boldeelOnderwater >= straal):
+        if (boldeelOnderwater >= straal): # om rekening te houden met het deel van de bol dat waterweerstand oplevert
             frontaalOpp = pi * straal**2
         else:
-            frontaalOpp = pi * (calculateRadius(boldeelOnderwater)**2)
+            frontaalOpp = pi * (calculateRadius(boldeelOnderwater)**2) # frontaal oppervlakte van deel van de bol dat onder water is
 
         waterweerstand = 0.5 * frontaalOpp * weerstandscoëfficient * dichtheidWater * snelheid**2
         nettokracht = zwaartekracht - archimedeskracht - waterweerstand
